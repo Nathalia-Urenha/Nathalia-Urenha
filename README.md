@@ -1,21 +1,11 @@
-### Hi there 👋
+## Olá 👋 Eu sou a Nathália Urenha.
 
-<!--
-**Nathalia-Urenha/Nathalia-Urenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-💻 Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2018-2022).
+-📍  Resido em Lins/SP e Birigui/SP
+-🔍 Em busca de aprender novas tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Oiii! Eu sou a Nathália Urenha
- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
