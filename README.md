@@ -1,9 +1,9 @@
 ## Olá 👋 Eu sou a Nathália Urenha.
 
 
--💻 Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2018-2022).
--📍  Resido em Lins/SP e Birigui/SP
--🔍 Em busca de aprender novas tecnologias
+--💻 Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2018-2022).
+--📍  Resido em Lins/SP e Birigui/SP
+--🔍 Em busca de aprender novas tecnologias
 
 
 <div style="display: inline_block"><br>
