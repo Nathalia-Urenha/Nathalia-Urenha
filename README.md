@@ -3,7 +3,7 @@
 
 -💻 Graduando em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2018-2022).
 
-- 📈 Estagiária na Gorila Invest
+-📈 Estagiária na Gorila Invest
 
 -📍  Resido em Lins/SP e Birigui/SP
 
