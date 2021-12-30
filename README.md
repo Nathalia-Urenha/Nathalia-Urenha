@@ -7,7 +7,7 @@
 
 -📍  Resido em Lins/SP e Birigui/SP
 
--📱 Apaixonada por React Native e Node.js
+-📱 Apaixonada por React, React Native e Node.js
 
 -🔍 Em busca de aprender novas tecnologias
 
