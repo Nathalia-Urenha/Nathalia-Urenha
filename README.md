@@ -5,7 +5,7 @@
 
 -📈 Estagiária na Gorila Invest
 
--📍  Resido em Lins/SP e Birigui/SP
+-📍  Resido em Lins/SP
 
 -🔍 Em busca de aprender novas tecnologias
 
