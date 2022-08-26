@@ -3,11 +3,9 @@
 
 -💻 Graduanda em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui (2018-2022).
 
--📈 Dev Jr. na Gorila Invest
+-📈 Front-End Dev Jr. na Gorila Invest
 
 -📍  Resido em Lins/SP
-
--🔍 Em busca de aprender novas tecnologias
 
 <p align="left">
   <a href="https://github.com/Nathalia-Urenha">
