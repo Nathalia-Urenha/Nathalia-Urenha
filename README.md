@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/nath_urenha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: naty.urenha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-maria-urenha-machado-81824916a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/urenha_nath" target="_blank"><img src="https://img.shields.io/badge/-Twitter-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/urenha_nath" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5514981954220" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   
